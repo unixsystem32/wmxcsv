@@ -1,3 +1,5 @@
 cidr,datacenter,proxy_type,country
 129.146.0.0/21,,REMOVE,
 129.146.0.0/21,,,RU
+8.8.8.8/32,,REMOVE,
+8.8.8.8/32,,,RU
